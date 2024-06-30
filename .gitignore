@@ -1,0 +1,4 @@
+receipts.db
+:memory:
+receipt-processor-webservice
+main
